@@ -28,8 +28,8 @@ In the same infected cell, the proteasome cuts viral protein into peptides, TAP 
 
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/structures/capsid-2plv-still.png">
-  <img src="assets/structures/capsid-2plv.webp" width="30%" alt="The complete capsid of poliovirus type 1, PDB 2PLV, turning slowly: sixty copies each of the capsid proteins VP1 (green), VP2 (orange) and VP3 (purple), coloured as in the RCSB Protein Data Bank's image of the entry.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/structures/spike-6vxx-still.png">
+  <img src="assets/structures/spike-6vxx.webp" width="30%" alt="The spike glycoprotein trimer of SARS-CoV-2 in its closed state, PDB 6VXX, turning slowly, each of its three chains in its own colour (green, orange and purple), drawn as spheres for every atom.">
 </picture>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
@@ -38,7 +38,7 @@ In the same infected cell, the proteasome cuts viral protein into peptides, TAP 
 </picture>
 </p>
 
-<p align="center"><sub>Poliovirus type 1 capsid, <a href="https://www.rcsb.org/structure/2PLV">PDB 2PLV</a> &nbsp;&nbsp;·&nbsp;&nbsp; Influenza haemagglutinin with antibody CR9114, <a href="https://www.rcsb.org/structure/4FQI">PDB 4FQI</a></sub></p>
+<p align="center"><sub>SARS-CoV-2 spike glycoprotein, <a href="https://www.rcsb.org/structure/6VXX">PDB 6VXX</a> &nbsp;&nbsp;·&nbsp;&nbsp; Influenza haemagglutinin with antibody CR9114, <a href="https://www.rcsb.org/structure/4FQI">PDB 4FQI</a></sub></p>
 
 <br>
 
