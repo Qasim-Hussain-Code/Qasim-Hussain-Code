@@ -27,9 +27,15 @@ In the same infected cell, the proteasome cuts viral protein into peptides, TAP 
 <br>
 
 <p align="center">
-<a href="https://www.rcsb.org/structure/2PLV"><img src="https://cdn.rcsb.org/images/structures/pl/2plv/2plv_assembly-1.jpeg" width="30%" alt="The complete capsid of poliovirus type 1, PDB 2PLV, as shown by the RCSB Protein Data Bank."></a>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/structures/capsid-2plv-still.png">
+  <img src="assets/structures/capsid-2plv.webp" width="30%" alt="The complete capsid of poliovirus type 1, PDB 2PLV, turning slowly: sixty copies each of the capsid proteins VP1 (green), VP2 (orange) and VP3 (purple), coloured as in the RCSB Protein Data Bank's image of the entry.">
+</picture>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.rcsb.org/structure/4FQI"><img src="https://cdn.rcsb.org/images/structures/fq/4fqi/4fqi_assembly-1.jpeg" width="30%" alt="Influenza H5 haemagglutinin with Fab fragments of the antibody CR9114, PDB 4FQI, as shown by the RCSB Protein Data Bank."></a>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/structures/ha-4fqi-still.png">
+  <img src="assets/structures/ha-4fqi.webp" width="30%" alt="Influenza H5 haemagglutinin trimer with Fab fragments of the antibody CR9114 bound to its stem, PDB 4FQI, turning slowly, each chain in its own colour as in the RCSB Protein Data Bank's image of the entry.">
+</picture>
 </p>
 
 <p align="center"><sub>Poliovirus type 1 capsid, <a href="https://www.rcsb.org/structure/2PLV">PDB 2PLV</a> &nbsp;&nbsp;·&nbsp;&nbsp; Influenza haemagglutinin with antibody CR9114, <a href="https://www.rcsb.org/structure/4FQI">PDB 4FQI</a></sub></p>
