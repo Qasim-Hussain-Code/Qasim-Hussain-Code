@@ -32,7 +32,7 @@ In the same infected cell, the proteasome cuts viral protein into peptides, TAP 
 <a href="https://www.rcsb.org/structure/4FQI"><img src="https://cdn.rcsb.org/images/structures/fq/4fqi/4fqi_assembly-1.jpeg" width="30%" alt="Influenza H5 haemagglutinin with Fab fragments of the antibody CR9114, PDB 4FQI, as shown by the RCSB Protein Data Bank."></a>
 </p>
 
-<sub>Published reference structures, keyed to the numbered steps of viral replication above, left to right: a capsid, the shell that opens at uncoating and is built again at assembly (steps 03 and 06), of poliovirus type 1, [PDB 2PLV](https://www.rcsb.org/structure/2PLV); and a viral glycoprotein of the kind that binds the receptor at attachment (step 01), influenza H5 haemagglutinin with Fab fragments of the antibody CR9114 on its stem, [PDB 4FQI](https://www.rcsb.org/structure/4FQI). Images from the RCSB Protein Data Bank.</sub>
+<p align="center"><sub>Poliovirus type 1 capsid, <a href="https://www.rcsb.org/structure/2PLV">PDB 2PLV</a> &nbsp;&nbsp;·&nbsp;&nbsp; Influenza haemagglutinin with antibody CR9114, <a href="https://www.rcsb.org/structure/4FQI">PDB 4FQI</a></sub></p>
 
 <br>
 
