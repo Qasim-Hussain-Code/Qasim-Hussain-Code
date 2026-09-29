@@ -26,6 +26,16 @@ In the same infected cell, the proteasome cuts viral protein into peptides, TAP 
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/horizontal-gene-transfer-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/horizontal-gene-transfer-phone-light.svg">
+  <img src="assets/horizontal-gene-transfer-light.svg" width="100%" alt="Horizontal gene transfer. Animated diagram of bacterial conjugation in four steps: 1 contact, the donor's pilus attaches to a recipient cell; 2 mating bridge, the pilus retracts, drawing the cells together, and a pore forms; 3 transfer, one strand of the plasmid is nicked at its origin of transfer and passes into the recipient; 4 each cell makes the complementary strand, completing the plasmid, so both carry the resistance gene. The plasmid and resistance gene in orange, the cells in grey. A simplified, general scheme; details differ between plasmids and bacterial species.">
+</picture>
+
+In bacteria, a plasmid carrying a resistance gene can pass from one cell to another by conjugation, one of the ways antimicrobial resistance and accessory genes spread between strains; the scheme is simplified and general.
+
+<br>
+
 <p align="center">
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/structures/spike-6vxx-still.png">
